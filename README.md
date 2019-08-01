@@ -1,29 +1,33 @@
-# vue-ts-project
+专栏地址：https://www.imooc.com/read/35
 
-## Project setup
-```
-npm install
-```
+课程介绍
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+其实TypeScript并不是一门新的语言，它是 JavaScript 的超集。它最大的亮点，就是其无可替代的强类型系统，这也是它为什么叫 TypeScript 的原因。之所以说它的类型系统无可替代，是因为TypeScript 填充了 JavaScript 作为一门动态弱类型脚本语言的缺点，多了静态类型检查， 能够对代码中的错误及时反馈，而又保留了JavaScript 的灵活，维护大型工程项目更加轻松。
 
-### Compiles and minifies for production
-```
-npm run build
-```
+现在最流行的三大主流前端框架，React 和 Angular 使用 TypeScript 编写，而 Vue3.0 则会使用TypeScript 重写；而 NodeJS 的模块很多都添加了类型声明，所以使用 TypeScript 可以很好地开发前后端和其他场景的项目。
 
-### Run your tests
-```
-npm run test
-```
+越来越多的公司开始使用 TypeScript，作为一名求职者，对 TypeScript 掌握的熟练程度，会为你的简历有相应的加分；以后TypeScript在面试中出现的频率和覆盖率，也会和 JavaScript 一样频繁和广泛。
 
-### Lints and fixes files
-```
-npm run lint
-```
+Lison16老师，代码控，iView-admin 作者，UI组件库 iView 核心开发者 。开源社区活跃开发者，Github 昵称 Lison16。擅长 Vue技术栈开发和性能优化，对组件开发有深入见解和心得，现就职于国内知名互联网公司前端研发团队，重点提高组件化水平和开发效率提升。掌握全新的TS发展与历史资料，是少有的对TS官方文档进行前沿解读的前端大拿。
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+他个人的开发经历让他深刻感受到，目前市面上对于TS的讲解，是不够深入，甚至可以说是浅显，对于前端开发者的学习意义并不大；而各种资料水平参差不齐，英文文档对于英语水平一般的开发者并不友好，而翻译过来的中文文档又明显信息滞后。关于TS，大家似乎只是习惯性停留在常用知识点的解读，这样只会让人似懂非懂，更别提进入实践。在TS的学习上，大家走了太多弯路。Lison老师愿成为你身边随时解答问题的大牛，带你告别零散与盲目的自学，一起精进关于TS的知识。
+
+本专栏共七个模块，39小节。分三个阶段对 TypeScript 从零基础到实战。
+
+第一阶段：全面详尽的优质资料，零基础上手 TypeScript
+
+虽然 TypeScript 已经被广泛使用，但是关于它的优质资料还是较少。即便是 TypeScript 的英文官方文档，也存在更新内容没有同步到以往知识文档，或者只是说了概念，没有例子帮助理解等问题。中文版文档则落后了几个版本，而且也只是对英文文档的翻译，没有补充示例，这对于英语水平一般的程序员非常不友好，文档的不足还会影响学习。
+
+本专栏立足基础，对 TypeScript 截止到3.3版本的语法知识进行系统全面讲解。你只需有基本的JavaScript语法基础，即可轻松上手 TypeScript。TypeScript 的知识点基本上你都可以在本专栏内找到，全面细致，是学习TS的优质资料。
+
+第二阶段：知识点提炼+示例讲解，轻松掌握TS实践
+
+网上大部分的 TypeScript 教程，都只是对几个常用知识进行讲解，并没有深入到每一个知识点。对大部分人来说，可能学习完之后只能说是有了大概认知，并不能真正实践。
+
+Lison16老师将每个知识点都配合代码示例讲解，一步一步带领操作，并且很多例子结合实际开发经验，不空谈知识，让整个专栏学习起来十分生动，绝不枯燥。
+
+第三阶段：Vue+TS，两大热门前端工具结合实战
+
+除了对基础知识的扎实学习，本专栏还包含实战学习。Lison16老师将手把手带你开发一个基于Vue+TypeScrip t的小项目，掌握这两大前端热门工具的结合，必然能够帮你在工作上提升一个阶段。
+
+欢迎你加入这个专栏，体会到TS是如此纯净、优雅、简洁，发现使用语言的愉快。
